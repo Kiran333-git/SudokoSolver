@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.sudoku-grid {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.sudoku-grid td {
+    border: 1px solid black;
+    width: 35px;
+    height: 35px;
+}
+
+.sudoku-grid input {
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+}
+
+.sudoku-grid td:nth-of-type(3),
+.sudoku-grid td:nth-of-type(6) {
+    border-right: 2px solid black;
+}
+
+.sudoku-grid tbody tr:nth-of-type(3) td,
+.sudoku-grid tbody tr:nth-of-type(6) td {
+    border-bottom: 2px solid black;
+}
