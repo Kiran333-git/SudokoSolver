@@ -16,10 +16,10 @@ This project demonstrates how **Data Structures & Algorithms** can be applied in
 ## 📸 Screenshots
 
 ### Input (Unsolved Sudoku)
-![Unsolved Sudoku]("C:\Users\mkira\Desktop\Projects\GitHub\SudokoWeb\Screenshots\Unsolved.png")
+![Unsolved Sudoku]("C:\Users\mkira\Pictures\Screenshots\Unsolved.png")
 
 ### Output (Solved Sudoku)
-![Solved Sudoku]("C:\Users\mkira\Desktop\Projects\GitHub\SudokoWeb\Screenshots\Solved.png")
+![Solved Sudoku]("C:\Users\mkira\Pictures\Screenshots\Solved.png")
 
 ---
 
